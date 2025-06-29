@@ -219,8 +219,8 @@ WHERE s.State = 'Odisha';
 ![](https://github.com/Issita/India_Election_Result_Analysis/blob/main/overall%20result.png)
 
 ## State-Wise Highlights
-**Uttar Pradesh:** NDA won 36 seats, I.N.D.I.A won 42 seats
-**Maharashtra:** NDA won 17 seats, I.N.D.I.A won 30 seats
-**West Bengal:** I.N.D.I.A dominated with 29 out of 42 seats
-**Odisha:** BJD (Other alliance) won 9 seats, BJP won 21 seats
+- **Uttar Pradesh:** NDA won 36 seats, I.N.D.I.A won 42 seats
+- **Maharashtra:** NDA won 17 seats, I.N.D.I.A won 30 seats
+- **West Bengal:** I.N.D.I.A dominated with 29 out of 42 seats
+- **Odisha:** BJD (Other alliance) won 9 seats, BJP won 21 seats
 
