@@ -5,7 +5,7 @@ This repository contains a comprehensive SQL analysis of India's 2024 General El
 **Database Name:** India_Election_Result
 
 ## Tables Structure
-![]()
+![](https://github.com/Issita/India_Election_Result_Analysis/blob/main/table_diagram.png)
 
 ## Table Descriptions
 **1.states:** Contains state names and IDs
