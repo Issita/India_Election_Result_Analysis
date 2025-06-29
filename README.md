@@ -216,7 +216,7 @@ WHERE s.State = 'Odisha';
 
 ## Key Findings
 #### Overall Results
-![]()
+![](https://github.com/Issita/India_Election_Result_Analysis/blob/main/overall%20result.png)
 
 ## State-Wise Highlights
 **Uttar Pradesh:** NDA won 36 seats, I.N.D.I.A won 42 seats
